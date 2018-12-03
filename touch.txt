@@ -1,0 +1,2 @@
+This model is built for predicting population flow on a city level, under the circumstance of JDD contest
+
